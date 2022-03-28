@@ -1,5 +1,7 @@
 # vue-suncode
 
+# PORT: 8080
+
 ## Project setup
 ```
 npm install
